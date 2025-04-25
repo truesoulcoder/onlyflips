@@ -30,6 +30,19 @@
 * Authentication (optional)
     - NextAuth.js (email, SSO, RLS integration)
 
+# Node Packages:
+    - npm install tailwindcss postcss autoprefixer - hero-ui @heroicons/react
+    - npm install next react react-dom typescript @types/react @types/node
+    - npm install zustand
+    - npm install @supabase/supabase-js
+    - npm install next-auth
+    - npm install react-beautiful-dnd
+    - npm install konva react-konva
+    - npm install pdfjs-dist        
+    - npm install page-flip  
+    - npm install react-pageflip          
+    - npm install jszip
+
 ##    Sprint 1: Core Flip Canvas & File I/O (2 weeks)
     - Flip Canvas Component
     - <FlipCanvas> wrapping StPageFlip (page-flip) or react-pageflip.
