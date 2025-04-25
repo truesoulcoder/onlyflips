@@ -5,7 +5,7 @@
     - Modular & scalable: decoupled features, clear boundaries (flip engine, editor, storage, auth).
     - Serverless & lean: Next.js + Vercel at the edge, Supabase for data & assets—no ops overhead.
     - UX-first: mobile-friendly, accessible (ARIA, keyboard), performance-tuned.
-    - Sprint 0: Foundation & Design (2 weeks)
+##   Sprint 0: Foundation & Design (2 weeks)
 
 # ✅ Design system & prototype in Figma
     - Color palette, type scale, Hero UI component variants, brand tokens.
