@@ -30,7 +30,7 @@
 * Authentication (optional)
     - NextAuth.js (email, SSO, RLS integration)
 
-# Node Packages:
+# Node Packages for Flips:
     - npm install tailwindcss postcss autoprefixer - hero-ui @heroicons/react
     - npm install next react react-dom typescript @types/react @types/node
     - npm install zustand
@@ -41,7 +41,17 @@
     - npm install pdfjs-dist        
     - npm install page-flip  
     - npm install react-pageflip          
-    - npm install jszip
+    - npm install 
+    
+# Node Packages for Tips:
+    - npm install @tipccjs/tipcc-api-types  
+    - npm install tipcc.js   
+    - npm install react-coinbase-commerce     
+    - npm install coinbase-commerce-node   
+    - npm install opennode  
+    - npm install ethers
+    - npm install wagmi
+
 
 ##    Sprint 1: Core Flip Canvas & File I/O (2 weeks)
     - Flip Canvas Component
