@@ -18,6 +18,18 @@
 # ✅ CI/CD pipeline
     - GitHub → Vercel auto-deploy, linting (ESLint), formatting (Prettier), basic Jest config.
 
+# ✅ Stacked Flippin Tech
+* Flip-book Engine
+    - page-flip (StPageFlip) or react-pageflip wrapper
+* PDF handling
+    - PDF.js (client-side page extraction/rendering)
+* Canvas & Annotations
+    - Konva.js (freehand drawing, cropping, sticky notes)
+* State Management
+    - Zustand (or React Context for lighter use-cases)
+* Authentication (optional)
+    - NextAuth.js (email, SSO, RLS integration)
+
 ##    Sprint 1: Core Flip Canvas & File I/O (2 weeks)
     - Flip Canvas Component
     - <FlipCanvas> wrapping StPageFlip (page-flip) or react-pageflip.
